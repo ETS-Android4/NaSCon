@@ -7,3 +7,7 @@ Technologies Used: Android, Java, Firebase Database, Firebase Storage, One Signa
 
 https://user-images.githubusercontent.com/83825490/145527190-dc920602-c3d7-4f88-8007-6762bbad967d.mp4
 
+
+
+https://user-images.githubusercontent.com/83825490/145527330-33bd46eb-87ab-4495-9b32-e320c62f2fcb.mp4
+
