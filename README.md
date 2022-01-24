@@ -4,13 +4,13 @@ registration in competitions.
 # Technologies Used
 * Android
 * Java
-* One Signal Notifications
-* Firebase Database
-* Firebase Storage
-* Firebase Authenticaion 
+* One Signal Notifications (Used for push notifications on new notification post)
+* Firebase Database (Online database to save application data)
+* Firebase Storage (Online storage for saving images)
+* Firebase Authentication (Used for admin login authentication) 
 # Features User Module
 * View Events List, Memories, Main Event Details & Notifications 
-* Events Registeration
+* Events Registration
 # Features Admin Module
 * Update & View Event Details
 * Add New Events
